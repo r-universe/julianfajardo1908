@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "tidyactuarial"]
 	path = tidyactuarial
-	url = https://github.com/cran/tidyactuarial
+	url = https://github.com/julianfajardo1908/tidyactuarial
 [submodule "vectorialcalculus"]
 	path = vectorialcalculus
 	url = https://github.com/julianfajardo1908/vectorialcalculus
